@@ -7,4 +7,16 @@ Dit was de eerste les van deze periode en dit was een introductieles waarbij we 
 
 **Les 2 / Week 47**
 
-Dit is was de tweede les en in deze les zijn we begonnen met wat uitleg over het coderen met de ESP 32 en met het installeren van wat bestandjes en het uploaden en aanmaken van bestanden in GitHub. Eerst moesten we een oefenopdracht maken om kennis te maken met Visual Studio Code en toen gingen we aan de slag met onze eigen opdracht. 
+Dit was de tweede les en in deze les zijn we begonnen met wat uitleg over het coderen met de ESP 32 en met het installeren van wat bestandjes en het uploaden en aanmaken van bestanden in GitHub. Eerst moesten we een oefenopdracht maken om kennis te maken met Visual Studio Code en toen gingen we aan de slag met onze eigen opdracht. Me moesten programmeren in visual studio code en we moesten in micropython coderen. We zijn toen begonnen met wat oefenen met een lampje en die werkende te krijgen en toen gingen we werken aan de code, maar de les was al bijna voorbij dus daar gingen we de volgende les mee verder.
+
+**Les 3 / Week 48**
+
+Dit was de derde les en in deze periode en we begonnen de les met het installeren van de wifi en deze in de code te zetten. Dit moest op een apart netwerk, vanwege dat we geen gebruikersnaam konden. Jesse was deze les ziek, dus Micha ging aan de slag. Hij ging aan de slag met het programmeren van de pir en de servo. De pir is de bewegingssensor en de servo is de motor van het hek van de oprijlaan. Dit ging eerst niet zo goed, maar aan het eind van de les had hij wel een soort van werkende code gevonden en hier ging hij de volgende les aan verder werken. 
+
+**Les 4 / Week 49**
+
+Dit was de vierde les en in deze les van Jesse nog steeds ziek en dus moest Micha weer alleen werken. Hierdoor wordt de snelheid van de opdracht wel vertraagd. Daarom is het logboek ook wat korter. In deze les heeft Micha de pir en de servo aan het werk gekregen en de servo draaide dus nu als die beweging detecteerde, maar hij detecteerde altijd beweging en dat is natuurlijk niet de bedoeling en dat lag aan de sensor, maar daar gingen we de volgende les weer aan werken. 
+
+**Les 5 / Week 50**
+
+Dit was de vijfde les en in de deze les gingen we weer verder werken aan de opdracht. 

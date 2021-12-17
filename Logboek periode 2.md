@@ -19,4 +19,4 @@ Dit was de vierde les en in deze les van Jesse nog steeds ziek en dus moest Mich
 
 **Les 5 / Week 50**
 
-Dit was de vijfde les en in de deze les gingen we weer verder werken aan de opdracht. 
+Dit was de vijfde les en in de deze les gingen we weer verder werken aan de opdracht. We moesten werken aan de pir en de servo om de laatste dingen te regelen en dat hadden we vrij snel afgerond en toen gingen we werken aan de lampjes en aan de wifi om die te connecten aan de MQTT. Dat ging nog niet zo goed, maar we hebben wel progresie gemaakt met de LED en we moesten wat draadjes wisselen en de sensoren veranderen. Ook moesten we een paar pins veranderen en de LDR en de ADC aanpassen, maar dat werkten aan het eind van de les prima. Volgende week is de een na laatste les en dan hopen we de opdracht af te krijgen.

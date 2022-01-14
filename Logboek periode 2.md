@@ -20,3 +20,11 @@ Dit was de vierde les en in deze les van Jesse nog steeds ziek en dus moest Mich
 **Les 5 / Week 50**
 
 Dit was de vijfde les en in de deze les gingen we weer verder werken aan de opdracht. We moesten werken aan de pir en de servo om de laatste dingen te regelen en dat hadden we vrij snel afgerond en toen gingen we werken aan de lampjes en aan de wifi om die te connecten aan de MQTT. Dat ging nog niet zo goed, maar we hebben wel progresie gemaakt met de LED en we moesten wat draadjes wisselen en de sensoren veranderen. Ook moesten we een paar pins veranderen en de LDR en de ADC aanpassen, maar dat werkten aan het eind van de les prima. We hadden een paar problemen met de waarden van de LDR, het ging verkeerd met het switchen tussen 0 en 400 alleen aan het eind lukten het wel. We hadden de 1.5 kiloohm gebruikt als weerstand. Volgende week is de een na laatste les en dan hopen we de opdracht af te krijgen.
+
+**Week 51/52/01**
+
+Deze weken vielen uit.
+
+**Les 6 / Week 2**
+
+Dit was de een na laatste les, want de vorige les viel uit. Deze les hadden we de esp 32 eigenlijk al volledig af met het lampje en de beweginssensor dus we moesten alleen nog de wifi instellen en die connecten met MQTT. We moesten een paar bestandjes kopiëren en plakken uit GitHub en deze in onze code zetten. Toen we dat hadden gedaan moesten we hem verbinden met de homeassistant. 
